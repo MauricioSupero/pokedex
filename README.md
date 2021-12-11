@@ -1,4 +1,4 @@
-# pokedemon
+# pokedex
 
 A new Flutter project.
 
